@@ -96,8 +96,6 @@ FROM
 ORDER BY 
     id;
 
--- Find all cars that have both 'GPS' and 'Sunroof' features.
-
 -- Find all cars that have both 'GPS' and 'Sunroof' features
 SELECT 
     c.id AS car_id,
